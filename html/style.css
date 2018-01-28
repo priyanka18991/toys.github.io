@@ -1,0 +1,55 @@
+* {
+
+    margin: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+h1,h2,h3,p {
+margin-bottom: 20px;
+
+}
+
+nav {
+    height: 50px;
+    /* background-color: blueviolet; */
+    width: 100%;
+    position: fixed;
+    z-index: 99;
+background-color: rgba(0,0,0,.5)
+}
+
+nav a {
+    text-decoration: none;
+    margin-left: 30px;
+    line-height: 50px;
+    color: aliceblue;
+}
+.sect {
+height:100%;
+/* width: 100px; */
+/* background-color:aqua; */
+background-size: cover;
+}
+
+.subsection {
+height: 50%;
+background-color: bisque;
+
+}
+
+.sectOne {
+
+    background-image: url(../images/kid.jpg);
+
+}
+
+.sectTwo {
+    background-image: url(../images/teddy.jpg);
+}
+
+.sectThree {
+    background-image: url(../images/block.jpg);
+}
