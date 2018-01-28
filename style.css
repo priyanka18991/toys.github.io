@@ -8,9 +8,7 @@ html, body {
 }
 
 h1,h2,h3,p {
-/* margin-bottom: 20px;
-
-/* position: relative; */
+margin-bottom: 20px;
 font-size: 64px;
 font-family: cursive;
 padding: 20%;
